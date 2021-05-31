@@ -1,2 +1,4 @@
-# Repositorio de Celia
-Prácticas con Git
+#Fichero read me
+Pruebas 
+
+juego de tecleo
